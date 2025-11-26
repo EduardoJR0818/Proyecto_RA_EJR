@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Practica 1 RA.sln"
+    "dotnet.defaultSolution": "Proyecto_RA_EJR.sln"
 }
